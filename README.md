@@ -6,13 +6,13 @@
 <h2 align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</h2>
 
 ## 💬 Ask me about
-- Frontend web development (React.js, Angular)
+- Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML)
 - SSR/CSR (Next.js)
 - SASS ❤️
 - SEO
-- Accessibility
+- Accessibility 
 - Backend web development (Node.js)
-- UX/UI
+- UX/UI 🥇
 - Design Patterns
 - Latest Dev technologies
 - C#
