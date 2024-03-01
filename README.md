@@ -1,9 +1,9 @@
 ### <h1 align = "center">Hi there 👋</h1>
 
-[![Header](https://github.com/inescodefam/inescodefam/blob/main/banner.jpg?raw=true "Header")](https://github.com/inescodefam)
+<img width=200wp>[![Header](https://github.com/inescodefam/inescodefam/blob/main/banner.jpg?raw=true "Header")](https://github.com/inescodefam)</img>
 
 ## 👋 About me 
-<h2 align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</h2>
+<h3 align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</h3>
 
 ## 💬 Ask me about
 - Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML)
