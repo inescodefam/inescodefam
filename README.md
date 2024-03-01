@@ -1,9 +1,9 @@
-### <h1 align = "center">Hi there 👋</h1>
+### <h1>Hi there 👋🙂 </h1>
 
-<img src="https://github.com/inescodefam/inescodefam/blob/main/banner.jpg?raw=true" align="center" width=100%wp>(https://github.com/inescodefam)</img>
+<img src="https://github.com/inescodefam/inescodefam/blob/main/banner.jpg?raw=true" align="center" width=100%wp>
 
 ## 👋 About me 
-<h3 align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</h3>
+<p align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</p>
 
 ## 💬 Ask me about
 - Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML)
