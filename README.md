@@ -1,6 +1,7 @@
 ### <h1>Hi there 👋🙂 </h1>
 
-<img src="https://github.com/inescodefam/inescodefam/blob/main/banner.jpg?raw=true" align="center" width=100%wp>
+<img width="100%" height="527" alt="image" src="https://github.com/user-attachments/assets/a0f600ad-e41a-4b05-abc9-19247e1eba18" />
+
 
 ## 👋 About me 
 <p align="center">Software engineer with a few years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver quality product only!</p>
@@ -15,7 +16,7 @@
 - UX/UI 🥇
 - Design Patterns
 - Latest Dev technologies
-- C#
+- Kotlin
 
 ## 📅 Hobbies
 - Solve programming problems at Codewars, LeetCode
@@ -36,12 +37,35 @@ Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&color=warning&logo=C%23)
+![](https://img.shields.io/badge/Tool-Kotlin-informational?style=flat&color=warning&logo=kotlin)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&color=warning&logo=angular)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=warning&logo=vue)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=warning&logo=laravel)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&color=warning&logo=sql)
+![](https://img.shields.io/badge/Tool-Apache-informational?style=flat&color=warning&logo=apache)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
+![](https://img.shields.io/badge/Tool-Cypress-informational?style=flat&color=warning&logo=cypress)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=warning&logo=java)
+![](https://img.shields.io/badge/Code-ASP%2ENET-informational?style=flat&color=warning&logo=asp%2Enet)
+![](https://img.shields.io/badge/Tool-wordpress-informational?style=flat&color=warning&logo=wordpress)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&color=warning&logo=jira)
+![](https://img.shields.io/badge/Code-Node%2Ejs-informational?style=flat&color=warning&logo=node%2Ejs)
+![](https://img.shields.io/badge/Code-npm-informational?style=flat&color=warning&logo=npm)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&color=warning&logo=figma)
+![](https://img.shields.io/badge/Tool-bash-informational?style=flat&color=warning&logo=bash)
+![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&color=warning&logo=linux)
+![](https://img.shields.io/badge/Tool-RedHat-informational?style=flat&color=warning&logo=redhat)
+![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&color=warning&logo=postgresdb)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=warning&logo=mongodb)
 
 ## 📚 Learning
 - Node.js microservices
+- Architecture
+- Vue
 
 
+- 📫 How to reach me (business only): ines.codefam@gmail.com
 <!--
 **inescodefam/inescodefam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,7 +76,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
