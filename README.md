@@ -8,7 +8,7 @@
 
 ## 💬 Ask me about
 - Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML)
-- SSR/CSR (Next.js)
+- SSR (Next.js)
 - SASS ❤️
 - SEO
 - Accessibility 
