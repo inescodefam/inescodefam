@@ -16,7 +16,6 @@
 - UX/UI 🥇
 - Design Patterns
 - Latest Dev technologies
-- Kotlin
 
 ## 📅 Hobbies
 - Solve programming problems at Codewars, LeetCode
