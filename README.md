@@ -4,25 +4,25 @@
 
 
 ## 👋 About me 
-<p align="center">Software engineer with a few years of experience. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver quality products only! There is no language I don't like <3</p>
+<p align="center">Software engineer with a few years of experience. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver quality products only! There is no language I don't like ❤️❤️❤️</p>
 
-## 💬 Ask me about
-- Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML)
+## 🔭 Interested
+- Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML, Angular)
 - SSR (Next.js)
 - SASS ❤️
 - SEO
 - Accessibility 
-- Backend web development (Node.js)
+- Backend web development (Node.js, C#)
 - UX/UI 🥇
 - Design Patterns
-- Latest Dev technologies
+- SOLID
+- CI/CD
+- Security
+- Security testing
 
 ## 📅 Hobbies
 - Solve programming problems at Codewars, LeetCode
-- Learning new frameworks
-- Discovering new libraries
 - Bodybuilding
-- etc...
 
 ## 📚 Education
 Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/in/ines-kamber/?originalSubdomain=hr).
@@ -61,10 +61,11 @@ Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/
 ## 📚 Learning
 - Node.js microservices
 - Architecture
-- Vue
+- Kotlin
+- Java
 
 
-- 📫 How to reach me (business only): ines.codefam@gmail.com
+- 📫 How to reach me: ines.codefam@gmail.com
 <!--
 **inescodefam/inescodefam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
