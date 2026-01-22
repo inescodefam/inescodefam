@@ -1,4 +1,4 @@
-### <h1>Hi there 👋🙂 </h1>
+## <h1>Hi there 👋🙂, welcome to my GitHub 👋👩‍💻</h1>
 
 <img width="100%" height="527" alt="image" src="https://github.com/user-attachments/assets/a0f600ad-e41a-4b05-abc9-19247e1eba18" />
 
