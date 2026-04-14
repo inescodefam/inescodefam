@@ -1,7 +1,7 @@
 ## <h1>Hi there 👋🙂, welcome to my GitHub 👩‍💻</h1>
 
-<img width="100%" height="527" alt="image" src="https://github.com/user-attachments/assets/a0f600ad-e41a-4b05-abc9-19247e1eba18" />
-![nas](https://github.com/user-attachments/assets/5dc4e776-0283-467d-94ec-e2862860ad50)
+<img width="100%" height="527" alt="image" src="https://github.com/user-attachments/assets/5dc4e776-0283-467d-94ec-e2862860ad50" />
+
 
 
 
