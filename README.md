@@ -62,8 +62,8 @@ Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&color=warning&logo=flutter)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&color=warning&logo=dart)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&color=warning&logo=SpringBoot)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=Docker)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&color=warning&logo=Kubernetes)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&color=warning&logo=Docker)
+![](https://img.shields.io/badge/Tool-DockerDesktop-informational?style=flat&color=warning&logo=DockerDesktop)
 ![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&color=warning&logo=Kubernetes)
 
 ## 📚 Learning
