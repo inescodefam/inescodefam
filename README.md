@@ -64,7 +64,7 @@ Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&color=warning&logo=SpringBoot)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=Docker)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&color=warning&logo=Kubernetes)
-![](https://img.shields.io/badge/DevTool-Kubernetes-informational?style=flat&color=warning&logo=Kubernetes)
+![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&color=warning&logo=Kubernetes)
 
 ## 📚 Learning
 - Node.js microservices
