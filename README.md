@@ -73,9 +73,6 @@ Besides software engineering, I also have a background in civil engineering, spe
 - Java
 - Python
 
-
-- 📫 How to reach me: ines.codefam@gmail.com  or via [LinkedIn](https://www.linkedin.com/in/ines-kamber/?originalSubdomain=en)
-
 - ## 🛰️ My engineering blueprint
 With a strong foundation in **Software Engineering** and a background in **Civil Engineering (Structural Analysis)**, I look at code the same way I look at buildings: it needs a rock-solid foundation, clear architecture, and the resilience to scale. 
 
@@ -84,6 +81,9 @@ Because of my versatile skill set, I naturally fit into roles that require **big
 -   **Solutions & Systems Architecture**: Applying structural thinking to cloud systems (K8s, Cloud, Software Architecture).
 -   **Full-Stack AI Engineering**: Bridging the gap between robust backends (Java, C#, Node.js), clean frontends (React, Angular), and emerging AI/LLM technologies.
 -   **R&D Mindset**: I don't just write code, I actively look at everyday life, identify problems, and build creative solutions to solve them.
+
+## ☎️ Contact
+- 📫 How to reach me: ines.codefam@gmail.com  or via [LinkedIn](https://www.linkedin.com/in/ines-kamber/?originalSubdomain=en)
 <!--
 **inescodefam/inescodefam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
