@@ -6,29 +6,27 @@
 
 
 ## 👋 About me 
-<p align="center">Software engineer with a few years of experience. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver quality products only! There is no language I don't like ❤️❤️❤️</p>
+<p align="center"> Software engineer with a few years of experience, comfortable in both remote and hybrid setups. 
+  Highly adaptable, quick to master new stacks, and driven to take ownership of projects from day one. 
+  There is no language I don't like 💙 I thrive on learning whatever tools the problem requires.</p>
 
 ## 🔭 Interested
-- Frontend web development (React.js, TypeScript, JS, SCSS/CSS, HTML, Angular)
-- SSR (Next.js)
-- SASS ❤️
-- SEO
+- Frontend web development (React, TypeScript, JS, SCSS/CSS, HTML, Angular) ❤️
+- SEO 🍀
 - Accessibility 
-- Backend web development (Node.js, C#)
-- UX/UI 🥇
-- Design Patterns
-- SOLID
+- Node.js, Java (Spring Boot), C#
+- UX/UI 🥇 Figma 🚀
+- DevOps ⏭️
 - CI/CD
-- Security
+- Security (Sonar)
 - Security testing
 
 ## 📅 Hobbies
-- Solve programming problems at Codewars, LeetCode
-- Bodybuilding
+- Solve programming problems on Codewars, LeetCode, or ones created by me observing everyday life 🎈
+- Bodybuilding, long walks and cycling, swimming
 
 ## 📚 Education
-Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/in/ines-kamber/?originalSubdomain=hr).
-
+Besides software engineering, I also have a background in civil engineering, specializing in structural analysis 🏗️
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -68,16 +66,25 @@ Besides developing, I also have other skills [LinkdIn](https://www.linkedin.com/
 ![](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
 
 ## 📚 Learning
-- AI/LLM/ML
-- microservices
-- Architecture
+- AI/LLM/ML 🔝
+- Software architecture
 - K8s
-- Cloud computing
+- Cloud
 - React
 - Java
+- Python
 
 
-- 📫 How to reach me: ines.codefam@gmail.com
+- 📫 How to reach me: ines.codefam@gmail.com  or via [LinkedIn](https://www.linkedin.com/in/ines-kamber/?originalSubdomain=en)
+
+- ## 🛰️ My engineering blueprint
+With a strong foundation in **Software Engineering** and a background in **Civil Engineering (Structural Analysis)**, I look at code the same way I look at buildings: it needs a rock-solid foundation, clear architecture, and the resilience to scale. 
+
+Because of my versatile skill set, I naturally fit into roles that require **big-picture thinking** and **agile problem-solving**:
+
+-   **Solutions & Systems Architecture**: Applying structural thinking to cloud systems (K8s, Cloud, Software Architecture).
+-   **Full-Stack AI Engineering**: Bridging the gap between robust backends (Java, C#, Node.js), clean frontends (React, Angular), and emerging AI/LLM technologies.
+-   **R&D Mindset**: I don't just write code, I actively look at everyday life, identify problems, and build creative solutions to solve them.
 <!--
 **inescodefam/inescodefam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -90,4 +97,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ...
 -->
