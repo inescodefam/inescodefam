@@ -18,8 +18,7 @@
 - UX/UI 🥇 Figma 🚀
 - DevOps ⏭️
 - CI/CD
-- Security (Sonar)
-- Security testing
+- Security
 
 ## 📅 Hobbies
 - Solve programming problems on Codewars, LeetCode, or ones created by me observing everyday life 🎈
