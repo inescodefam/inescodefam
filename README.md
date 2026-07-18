@@ -67,11 +67,6 @@ Besides software engineering, I also have a background in civil engineering, spe
 ## 📚 Learning
 - AI/LLM/ML 🔝
 - Software architecture
-- K8s
-- Cloud
-- React
-- Java
-- Python
 
 - ## 🛰️ My engineering blueprint
 With a strong foundation in **Software Engineering** and a background in **Civil Engineering (Structural Analysis)**, I look at code the same way I look at buildings: it needs a rock-solid foundation, clear architecture, and the resilience to scale. 
