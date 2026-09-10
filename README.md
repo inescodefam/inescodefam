@@ -1,4 +1,4 @@
-## <h1>Hi there 👋🙂, welcome to my GitHub 👩‍💻</h1>
+## <h1>Hi there 👋🙂, welcome to my Hub 👩‍💻</h1>
 
 <img width="100%" height="527" alt="image" src="https://github.com/user-attachments/assets/5dc4e776-0283-467d-94ec-e2862860ad50" />
 
@@ -6,22 +6,22 @@
 
 
 ## 👋 About me 
-<p align="center"> Software engineer with a few years of experience, comfortable in both remote and hybrid setups. 
-  Highly adaptable, quick to master new stacks, and driven to take ownership of projects from day one. 
-  There is no language I don't like 💙 I thrive on learning whatever tools the problem requires.</p>
+<p align="center">Highly adaptable, quick to master new things, and driven to take ownership of projects from day one. 
+  Focused on solutions, not problems. Beyond the engineering, I'm simply a reliable, positive, and great person to have in your corner and on your team. 💙</p>
 
 ## 🔭 Interested
-- Frontend web development (React, TypeScript, JS, SCSS/CSS, HTML, Angular) ❤️
-- SEO 🍀
-- Accessibility 
-- Node.js, Java (Spring Boot), C#
+- ConTech and PropTech 🏗️
+- Robotics and IoT 🤖🦾
+- Java (Spring Boot), C#, C++, Go, Node, Next
 - UX/UI 🥇 Figma 🚀
-- DevOps ⏭️
-- CI/CD
-- Security
+- DevOps and CI/CD ⏭️
+- Security and code quality ⭐
+- Web development (React, TypeScript, JS, SCSS/CSS, HTML, Angular) ❤️
+- SEO and Accessibility 🍀
+- Mobile 📱
 
 ## 📅 Hobbies
-- Solve programming problems on Codewars, LeetCode, or ones created by me observing everyday life 🎈
+- Solve programming problems on LeetCode or ones created by me observing everyday life 🎈🤩
 - Bodybuilding, long walks and cycling, swimming
 
 ## 📚 Education
@@ -67,6 +67,7 @@ Besides software engineering, I also have a background in civil engineering, spe
 ## 📚 Learning
 - AI/LLM/ML 🔝
 - Software architecture
+- Cloud
 
 - ## 🛰️ My engineering blueprint
 With a strong foundation in **Software Engineering** and a background in **Civil Engineering (Structural Analysis)**, I look at code the same way I look at buildings: it needs a rock-solid foundation, clear architecture, and the resilience to scale. 
