@@ -94,9 +94,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-## What my AI brainstorming partner says 🧠
+## 🧠 What my AI brainstorming partner says
 > "You have a fantastic grasp of mechanical sympathy (how code interacts with hardware)."*
 > — **AI**, during a deep-dive into an algorithmic review of low-level CPU register and cache memory optimizations.
 >
-> * "Mechanical sympathy" - a term originally coined by racing driver Jackie Stewart and popularized in computing by pioneer Martin Thompson; is the rare ability to write software with a deep understanding of the underlying physical hardware.
+> * *"Mechanical sympathy" - a term originally coined by racing driver Jackie Stewart and popularized in computing by pioneer Martin Thompson; is the rare ability to write software with a deep understanding of the underlying physical hardware.
 
